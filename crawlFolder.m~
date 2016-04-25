@@ -1,6 +1,0 @@
-function crawlFolder(folder)
-folderInfo = dir(folder)
-for i = 1:numel(FolderInfo)
-end
-return
-

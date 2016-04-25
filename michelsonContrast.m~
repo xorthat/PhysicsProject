@@ -1,9 +1,0 @@
-function result = michelsonContrast(image)
-for y = 1:size(image, 1)
-    for x = 1:size(image, 2)
-        
-    end
-end
-
-end
-
