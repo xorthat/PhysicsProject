@@ -1,0 +1,10 @@
+function results = perceptualHaze(image)
+grayIm = rgb2gray(image);
+mu = imgaussfilt(grayIm, 3, 'FilterSize', 3);
+temp = (grayIm - mu).^2;
+sigma = imgaussfilt(temp, 3, 'FilterSize', 3);
+mscn = (grayIm - mu) ./ sigma;
+
+
+end
+

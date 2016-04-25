@@ -1,0 +1,20 @@
+The FRIDA2 image database can be downloaded from
+http://www.lcpc.fr/english/products/image-databases/article/frida-foggy-road-image-database
+and used for research purpose only.
+
+The authors of the FRIDA2 database are: 
+Jean-Philippe Tarel (LEPSiS),
+Aurelien Cord (LIVIC), 
+Houssam Halmaoui (LIVIC),
+Dominique Gruyer (LIVIC),
+Nicolas Hautiere (LEPSiS)
+
+Any query about the ownership of the FRIDA2 database should be addressed to 
+Jean-Philippe.Tarel@ifsttar.fr
+
+Image owner is :
+IFSTTAR (previously INRETS-LCPC).
+58, boulevard Lefebvre
+F-75015 Paris, France
+
+

@@ -1,0 +1,10 @@
+%This is based upon the paper: Detecting Foggy Images and Estimating the Haze Degree Factor
+
+%I(x) = J(x)t(x) + A(1 - t(x))
+%x: pixel location
+%J(x): haze-free image
+%I(x): observed hazy image
+%A: global atmosphere light
+%t(x): medium transmission
+    %When the atmosphere is homogeneous t(x)=exp(?? · dep(x))
+    %? is is the scattering coor
